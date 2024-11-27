@@ -18,12 +18,12 @@ Coding Standards:
 ---
 
 Testing:
-= Unit, integration, and end-to-end (E2E) testing.
-= Use testing frameworks (e.g., Pytest, JUnit, or Mocha).
-= Test coverage tools (e.g., Codecov, Istanbul).
+- Unit, integration, and end-to-end (E2E) testing.
+- Use testing frameworks (e.g., Pytest, JUnit, or Mocha).
+- Test coverage tools (e.g., Codecov, Istanbul).
 
 ---
 
 Secure Coding:
-= OWASP secure coding practices.
-= Handling sensitive data (e.g., hashing, encryption, and avoiding hardcoded secrets).
+- OWASP secure coding practices.
+- Handling sensitive data (e.g., hashing, encryption, and avoiding hardcoded secrets).
